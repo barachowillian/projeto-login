@@ -1,4 +1,4 @@
-# Projeto - Tabela de Distâncias
+# Projeto - login
 Projeto criado como parte avaliativa da disciplina de Fundamentos de Desenvolvimento ministrada 
 pelo professor Leonardo Rocha.
 
@@ -26,7 +26,7 @@ pelo professor Leonardo Rocha.
 
 #### Tabela 
 
-* table- O elemento <table> HTML representa dados tabulares — isto é, informações apresentadas em uma tabela bidimensional composta por linhas e colunas de células contendo dados. 
+* label- O elemento <table> HTML representa dados tabulares — isto é, informações apresentadas em uma tabela bidimensional composta por linhas e colunas de células contendo dados. 
 * tr- A etiqueta <tr> que significa table row é usada para definir uma linha. A etiqueta <td> que significa table data é usada para definir uma célula. As tabelas podem ter cabeçalhos.
 
 Veja uma imagem do código, onde é possivel identificar o uso dos elementos mencionados acima:
@@ -65,7 +65,7 @@ th {
 * Github
 ## Referências 
 
-[Alura](https://www.alura.com.br/artigos/escrever-bom-readme)- Como escrever um README incrível no seu Github
+[Gerador de Gradiente](https://mybrandnewlogo.com/pt/gerador-de-gradiente-de-cor)- Como colocar sua tabela com uma cor incrivel gradiente 
 
 ## Autor(a)
 
