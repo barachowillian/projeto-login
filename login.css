@@ -1,15 +1,31 @@
-body{
-    background-image: linear-gradient(150deg, #deeff5 0, #b6dcea 16.67%, 
-    #8ac6e1 33.33%, #55aed8 50%, #0096d0 66.67%, #0080c9 83.33%, #006bc2 100%);
-    
-    display: flex; /*Comportamento do elemento na pagina*/
+body {
+    background-image: linear-gradient(150deg, #deeff5 0, #b6dcea 16.67%, #8ac6e1 33.33%, #55aed8 50%, #0096d0 66.67%, #0080c9 83.33%, #006bc2 100%);
+    background-position: center center;
+    display: flex;
+    /*Comportamento do elemento na pagina*/
+     background-repeat: repeat;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
 }
 
 /* Estilização do container */
-.container{
-display: flex;
-justify-content: center;
-align-items: center;
-width: 100% ;
-height: 100% ;
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 800%;
+}
+
+.form {
+    background-color: #55aed8;
+    padding: 30px;
+    padding-top: 0;
+    border-radius: 20px;
+    color: blue;
+    box-shadow: black;
+}
+h3{
+    text-align: center;
 }

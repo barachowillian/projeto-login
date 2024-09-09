@@ -10,19 +10,10 @@ pelo professor Leonardo Rocha.
 
 ### Descrição 
 
- O projeto consiste na composição de uma tabela que conta com capitais brasileiras e a distância 
-    entre essas capitais. As capitais constantes nesse projeto são:
-
- * Porto Velho
- * Recife  
- * Rio Branco
- * Rio de Janeiro
- * Salvador 
- * São Luiz 
- * São Paulo
- * Teresina 
-
+ Este projeto é uma página de login simples, estilizada com CSS, projetada para ser usada como uma forma de autenticação básica.
  ### Resultado do projeto 
+
+ foto do meu projeto
 
 #### Tabela 
 
