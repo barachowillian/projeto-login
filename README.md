@@ -11,17 +11,20 @@ pelo professor Leonardo Rocha.
 ### Descrição 
 
  Este projeto é uma página de login simples, estilizada com CSS, projetada para ser usada como uma forma de autenticação básica.
+ 
  ### Resultado do projeto 
 
  foto do meu projeto
 
 #### Tabela 
 
-* label- O elemento <table> HTML representa dados tabulares — isto é, informações apresentadas em uma tabela bidimensional composta por linhas e colunas de células contendo dados. 
-* tr- A etiqueta <tr> que significa table row é usada para definir uma linha. A etiqueta <td> que significa table data é usada para definir uma célula. As tabelas podem ter cabeçalhos.
+Este projeto inclui um formulário estilizado com uma tabela. Abaixo, você encontrará uma descrição detalhada sobre a parte da tabela, suas funcionalidades e como ela é integrada ao restante do projeto. 
+
+* Padding: A propriedade padding define uma a distância entre o conteúdo de um elemento e suas bordas. É um atalho que evita definir uma distância para cada lado separadamente ( padding-top , padding-right , padding-bottom , padding-left )
+* Height: O atribuito height define o tamanho vertical ocupado por uma tag na tela do navegador. Esta dimensão incorpora todos os elementos internos do box model, incluíndo o atribuito padding e o atributo border.
 
 Veja uma imagem do código, onde é possivel identificar o uso dos elementos mencionados acima:
-    ![IMAGEM](img/imagemtableandtr.png)
+    ![IMAGEM] (img/)
 
 
 * td- As letras "td" significam "table data," que é o conteúdo de uma célula de dados. Uma célula de dados pode conter texto, imagens, listas, parágrafos, formulários, filetes horizontias, tabelas, etc.

@@ -1,31 +1,34 @@
+html,
 body {
-    background-image: linear-gradient(150deg, #deeff5 0, #b6dcea 16.67%, #8ac6e1 33.33%, #55aed8 50%, #0096d0 66.67%, #0080c9 83.33%, #006bc2 100%);
-    background-position: center center;
+    padding: 0;
+    height: 100%;
+}
+ 
+body {
+    background-image: linear-gradient(150deg, #39adf0 0, #92d9f7 16.67%, #2addf1 33.33%, hsl(219, 81%, 59%) 50%, #00b8d0 66.67%, hsl(203, 87%, 46%) 83.33%, hsl(232, 80%, 54%) 100%);
     display: flex;
     /*Comportamento do elemento na pagina*/
-     background-repeat: repeat;
-    width: 100%;
-    height: 100%;
-    background-size: cover;
 }
-
+ 
 /* Estilização do container */
 .container {
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: 800%;
+    height: 100%;
 }
-
+ 
 .form {
-    background-color: #55aed8;
+    background-image: linear-gradient(150deg, #59fcf9 0, #93f0dc 16.67%, #1ee4d7 33.33%, #2598fd 50%, #26f3d1 66.67%, #00a1c9 83.33%, #008bc2 100%);
+    background-color: #39dbe3;
     padding: 30px;
     padding-top: 0;
     border-radius: 20px;
-    color: blue;
-    box-shadow: black;
+    color: rgb(0, 0, 0);
+    box-shadow: 0 0 10px black;
 }
-h3{
+ 
+h3 {
     text-align: center;
 }
